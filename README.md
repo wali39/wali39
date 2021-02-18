@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-AntDesign-003a8c?style=flat&logo=ant-design">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
-<img src="https://img.shields.io/badge/-NodeJs-black?style=flat&logo=node&logoColor=eed718">
+<img src="https://img.shields.io/badge/-NodeJs-black?style=flat&logo=nodejs&logoColor=eed718">
 <img src="https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> 
 
