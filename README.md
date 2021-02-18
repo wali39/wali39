@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><br>
-<img src="https://img.shields.io/badge/-Andtd-563D7C?style=flat&logo=ant-design&logoColor=white"><br>
+<img src="https://img.shields.io/badge/-Andtd-black?style=flat&logo=ant-design"><br>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"><br>
 <img src="https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react"><br>
   <img width="20" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
