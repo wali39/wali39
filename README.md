@@ -6,11 +6,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"><br>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"><br>
-
-[npm-image]: https://img.shields.io/npm/v/react-icons.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/react-icons
-
-<!-- <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> -->
+ <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> 
 
 ![Wali Ullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=wali39&show_icons=true)
 
