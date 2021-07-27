@@ -6,10 +6,10 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-AntDesign-003a8c?style=flat&logo=ant-design">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
-<img src="https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react">
-<img src="https://img.shields.io/badge/-Material-ui-black?style=flat&logo=material">
-<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> 
+<img src="https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript&logoColor=eed718">
+<img src="https://img.shields.io/badge/-ReactJs-303F9F?style=flat&logo=react">
+<img src="https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=materialui">
+<img src="https://img.shields.io/badge/-Markdown-00796B?style=flat&logo=Markdown"> 
 
 ![Wali Ullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=wali39&show_icons=true)
 
