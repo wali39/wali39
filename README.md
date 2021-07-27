@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-AntDesign-003a8c?style=flat&logo=ant-design">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
 <img src="https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react">
-<img src="https://img.shields.io/badge/-Materialui-black?style=flat&logo=material">
+<img src="https://img.shields.io/badge/-Material-ui-black?style=flat&logo=material">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> 
 
 ![Wali Ullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=wali39&show_icons=true)
