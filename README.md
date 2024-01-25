@@ -10,8 +10,10 @@
 <img src="https://img.shields.io/badge/-ReactJs-303F9F?style=flat&logo=react">
 <img src="https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=materialui">
 <img src="https://img.shields.io/badge/-Markdown-00796B?style=flat&logo=Markdown"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"> 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
 
 ![Wali Ullah GitHub Stats](https://github-readme-stats.vercel.app/api?username=wali39&show_icons=true)
 
