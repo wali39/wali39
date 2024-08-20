@@ -6,13 +6,15 @@
 
 <!-- <img src="https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript&logoColor=eed718"> -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-ReactJs-303F9F?style=flat&logo=react">
-<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"><!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=materialui"> -->
 <img src="https://img.shields.io/badge/-AntDesign-003a8c?style=flat&logo=ant-design">
+<!-- <img src="https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=materialui"> -->
+
 
 <br>
 
