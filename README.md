@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/-MaterialUI-blue?style=flat&logo=materialui">
 <img src="https://img.shields.io/badge/-Markdown-00796B?style=flat&logo=Markdown"> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 
